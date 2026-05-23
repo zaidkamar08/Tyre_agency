@@ -1,4 +1,4 @@
-aida Tyre Agency — Full Stack E-Commerce Platform
+Jaida Tyre Agency — Full Stack E-Commerce Platform
 A complete full stack e-commerce web application built for a real local business — Jaida Tyre Agency, Bari Bazar, Chaibasa. Built as Task 3 of the Pinnacle Labs Web Development Internship 2026.
 Live Demo
 https://roadgrip.netlify.app/
