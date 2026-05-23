@@ -1,7 +1,7 @@
 Jaida Tyre Agency — Full Stack E-Commerce Platform
 A complete full stack e-commerce web application built for a real local business — Jaida Tyre Agency, Bari Bazar, Chaibasa. Built as Task 3 of the Pinnacle Labs Web Development Internship 2026.
-Live Demo
-https://roadgrip.netlify.app/
+Live Demo: https://roadgrip.netlify.app
+GitHub: https://github.com/zaidkamar08/Tyre_agency
 
 About the Project
 This is not a demo project with fake data. It is a real e-commerce platform built for my father's automotive parts business in Chaibasa, Jharkhand. The website allows customers to browse real products, add them to cart, place orders, and register accounts. The admin panel allows the shop owner to manage products and track orders in real time.
@@ -83,7 +83,7 @@ src/
 
 Getting Started
 1. Clone the repository
-bashgit clone https://github.com/zaidkamar08/jaida-tyre-agency.git
+bashgit clone https://github.com/zaidkamar08/tyre_agency.git
 cd jaida-tyre-agency
 2. Install dependencies
 bashnpm install
@@ -97,11 +97,11 @@ bashnpm run dev
 About the Business
 Jaida Tyre Agency
 
-Location: Bari Bazar, Chaibasa, Jharkhand
+
 Established: 2000 (25+ years)
 Products: MRF, CEAT, Apollo, JK, Bridgestone tyres
 Vehicle Types: Truck, Bus, Tractor, Car, Electric Auto
-Contact: 7992371248
+
 
 
 Internship
